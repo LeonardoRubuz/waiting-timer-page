@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(39, 38, 38, 0.753);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body > div{
+    display: flex;
+    flex-direction: column;
+}
+
+#countdown{
+    text-align: center;
+    font-size: 50px;
+}
